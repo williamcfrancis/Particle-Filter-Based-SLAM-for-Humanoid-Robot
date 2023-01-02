@@ -1,7 +1,6 @@
 # Particle Filter-Based SLAM for Humanoid Robot
-
-Simultaneous Localization and Mapping (SLAM) problem is a well-known problem in robotics, where a robot has to localize itself and map its environment simultaneously. Particle filter (PF) is one of the most adapted estimation algorithms for SLAM apart from Kalman filter (KF) and Extended Kalman Filter (EKF).\
-Here I implement SLAM using a particle filter on data collected from a humanoid named THOR that was built at Penn and UCLA.
+## Overview
+The Simultaneous Localization and Mapping (SLAM) problem is a common challenge faced by robotics systems. It involves the robot accurately determining its own location and creating a map of its environment at the same time. One popular algorithm for solving the SLAM problem is the particle filter (PF), which is often used in conjunction with the Kalman filter (KF) and the Extended Kalman Filter (EKF). In this project, I have implemented SLAM using a particle filter on data collected from a humanoid robot named THOR, which was developed by researchers at the University of Pennsylvania and the University of California, Los Angeles. 
 
 ### Hardware Setup of THOR
 
