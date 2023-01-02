@@ -28,15 +28,6 @@ The body frame is at the top of the head (X axis pointing forwards, Y axis point
 #### SLAM on Dataset 0, Q = 1e-4
 ![image](https://user-images.githubusercontent.com/38180831/205531075-afd27c93-64e5-4308-9c82-eb8314a3e8e6.png)
 
-#### SLAM on Dataset 1, Q = 1e-4
-![image](https://user-images.githubusercontent.com/38180831/205531091-a416a0a9-8ca0-43b2-9d24-d3ddf831f42f.png)
-
-#### SLAM on Dataset 2, Q = 1e-4
-![image](https://user-images.githubusercontent.com/38180831/205531113-20179569-e17b-46f0-95d6-472f5e6cd8a6.png)
-
-#### SLAM on Dataset 3, Q = 1e-4
-![image](https://user-images.githubusercontent.com/38180831/205531138-5b250879-e669-4000-808f-d9a22ff5057e.png)
-
 #### SLAM on Dataset 0, Q = 1e-8
 ![image](https://user-images.githubusercontent.com/38180831/205531273-6b538618-f2b2-4fcf-b106-e601c310ebb8.png)
 
