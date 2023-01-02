@@ -17,9 +17,9 @@ You can read more about the hardware in this paper - [THOR-OP humanoid robot for
 The body frame is at the top of the head (X axis pointing forwards, Y axis pointing left and Z axis pointing upwards), the top of the head is at a height of 1.263m from the ground. The transformation from the body frame to the LiDAR frame depends upon the angle of the head (pitch) and the angle of the neck (yaw) and the height of the LiDAR above the head (which is 0.15m). The world coordinate frame where we want to build the map has its origin on the ground plane, i.e., the origin of the body frame is at a height of 1.263m with respect to the world frame at location (x,y,θ).
 
 ## Running the code
-1. You can choose to run the different parts of the SLAM algorithm (dynamic step and observation step) either separately or together. To do this, pass a mode argument, either 'dynamics', 'observation', or 'slam', in the main function of main.py.
+1. You can choose to run the different parts of the SLAM algorithm (dynamic step and observation step) either separately or together. To do this, pass a mode argument, either 'dynamics', 'observation', or 'slam', in the main function of `main.py`.
 
-2. Run the main.py file and set the datasets you want to use by passing the idx argument corresponding to the desired dataset.
+2. Run the `main.py` file and set the datasets you want to use by passing the idx argument corresponding to the desired dataset.
 
 ## Results
 #### The odometry and dynamics plots for dynamics step:
